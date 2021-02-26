@@ -1,0 +1,13 @@
+{
+  "name": "jwt-parser",
+  "version": "1.0.0",
+  "description": "Test JWT Parser",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tales Bitelo Viegas",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  }
+}
